@@ -1,0 +1,18 @@
+{
+  "name": "atom_seo_huay",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "แอป lottovip ★★★★★ เว็บหวยออนไลน์ แอป lottovip  เล่นง่าย จ่ายจริง แทงหวยรัฐบาล ศูนย์รวมหวยยี่กี หวยลาว ฮานอย หวยมาเลย์ หวยหุ้น",
+  "keywords": [
+    "แอป lottovip",
+    "lottovip349net",
+    "หวยลาวออกล่าสุด",
+    "เจ้ฟองเบียร์888",
+    "viplottovip"
+  ],
+  "repository": "https://github.com/dev-suwonza123/atom_seo_huay",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
